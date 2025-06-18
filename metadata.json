@@ -1,0 +1,6 @@
+{
+  "name": "VERRAPP Web",
+  "description": "A web application to simulate device locking and management, inspired by VERRAPP. It includes a client lock screen view and a supervisor admin panel.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
